@@ -1,0 +1,5 @@
+APP_RELOAD=True
+APP_DB_NAME=<db_name>
+APP_DB_USER=<sa>
+APP_DB_PASSWD=<password>
+APP_DB_HOST=<localhost>
